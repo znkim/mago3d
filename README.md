@@ -107,4 +107,4 @@ WebServerFactoryCustomizer<ConfigurableServletWebServerFactory> enableDefaultSer
 }
 ```
 #### 해결 방법
-`application.properties`에 `server.servlet.register-default-servlet=true` 설정을 추가하는 것으로 해결.
+`application.properties`에 `server.servlet.register-default-servlet=true` 설정을 추가하는 것으로 해결
